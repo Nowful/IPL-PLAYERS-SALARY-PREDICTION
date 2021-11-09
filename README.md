@@ -1,4 +1,4 @@
-# IPL-PLAYERS-SALARY-PREDICTION
+# IPL_PLAYERS_SALARY_PREDICTION
 
 The purpose of this project is to developed models that can help to find talented teams 
 with minimum possible spending amount for a players. In this project, we build several 
